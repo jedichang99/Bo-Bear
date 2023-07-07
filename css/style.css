@@ -9816,6 +9816,7 @@ h6,
   background-size: cover;
 }
 
+
 .section-title::before {
   position: absolute;
   content: "";
